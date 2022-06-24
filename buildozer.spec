@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = HACODE-Bomber
+title = HACODE-Attack
 
 # (str) Package name
 package.name = hacodebomber
